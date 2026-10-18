@@ -1,0 +1,5 @@
+Academy: MZ-UCACloudAcademy
+Student: Fortunate Zitha
+Environment: training
+Project: "academy-$var.environment"
+Description: MZ-UCACloudAcademy Terraform Training Environment

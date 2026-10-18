@@ -1,0 +1,6 @@
+MZ-UCA Cloud Academy Policy
+
+1. Students must document their practical work.
+2. Students must test their Terraform configuration.
+3. Students must submit evidence of successful execution.
+4. Students must explain their design decisions.
